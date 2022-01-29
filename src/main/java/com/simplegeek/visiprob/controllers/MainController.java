@@ -32,4 +32,8 @@ public class MainController {
 		lblOutput.setText("Probability is " + numIn + " out of " + numOut);
 	}
 	
+	public void handleAddProbBtnClick() {
+		
+	}
+	
 }
